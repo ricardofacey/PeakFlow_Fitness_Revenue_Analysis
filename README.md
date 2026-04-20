@@ -7,6 +7,7 @@
 ## Problem Statement
 
 PeakFlow Fitness experienced near-zero revenue growth year-over-year (-0.11%) despite 78% of customers making repeat purchases.  
+    
 This analysis identifies the root causes of stagnation and quantifies the revenue impact of targeted growth initiatives.
 
 ---
